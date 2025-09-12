@@ -28,27 +28,31 @@ Copy code
 ## 📸 Screenshots
 
 ### 1. Enhancement Tracker (Overview)
-![Enhancement Tracker](report/screenshots/enhancement_tracker.png)
+![Enhancement Tracker](enhancement-tracker-powerbi/report/screenshots/enhancement_tracker.png)
 
 ### 2. Planned vs Actual/Forecast
-![Planned vs Actual Forecast](report/screenshots/planned_vs_actual_forecast.png)
+![Planned vs Actual Forecast](enhancement-tracker-powerbi/report/screenshots/planned_vs_actual_forecast.png)
 
 ### 3. Enhancement Hours Comparison
-![Enhancement Hours Comparison](report/screenshots/enhancement_hours_compare.png)
+![Enhancement Hours Comparison](enhancement-tracker-powerbi/report/screenshots/enhancement_hours_compare.png)
 
 ### 4. Enhancement Hours (Year-Wise)
-![Enhancement Hours](report/screenshots/enhancement_hours.png)
+![Enhancement Hours](enhancement-tracker-powerbi/report/screenshots/enhancement_hours.png)
 
-### Data Model
-![Data Model](report/screenshots/data_model.png)
+### 5. Data Model
+![Data Model](enhancement-tracker-powerbi/report/screenshots/data_model.png)
 
 ---
 
 ## 📊 How to Explore
-1. Clone this repo or download it as a ZIP  
-2. Open `report/Enhancement_Tracker_Sample.pbix` in **Power BI Desktop (Sept 2025 or later)**  
-3. Data is already included (`data/E_Hours_Practice.xlsx`)  
-4. Refresh if needed  
+1. Clone this repo or download it as a ZIP:  
+   - Repo: https://github.com/kuntaak/enhancement-tracker-powerbi  
+   - Download ZIP: https://github.com/kuntaak/enhancement-tracker-powerbi/archive/refs/heads/main.zip  
+2. Or download files directly:  
+   - PBIX report: [report/Enhancement_Tracker_Sample.pbix](enhancement-tracker-powerbi/report/Enhancement_Tracker_Sample.pbix)  
+   - Excel data: [data/E_Hours_Practice.xlsx](data/E_Hours_Practice.xlsx)  
+3. Open the PBIX in **Power BI Desktop (Sept 2025 or later)**.  
+4. Refresh data if needed.  
 
 ---
 
