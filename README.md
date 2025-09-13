@@ -20,8 +20,7 @@ report/ → Power BI report
 ├─ Enhancement_Tracker_Sample.pbix
 └─ screenshots/ → PNG images of report pages
 
-yaml
-Copy code
+
 
 ---
 
@@ -49,8 +48,8 @@ Copy code
    - Repo: https://github.com/kuntaak/enhancement-tracker-powerbi  
    - Download ZIP: https://github.com/kuntaak/enhancement-tracker-powerbi/archive/refs/heads/main.zip  
 2. Or download files directly:  
-   - PBIX report: [report/Enhancement_Tracker_Sample.pbix](enhancement-tracker-powerbi/report/Enhancement_Tracker_Sample.pbix)  
-   - Excel data: [data/E_Hours_Practice.xlsx](data/E_Hours_Practice.xlsx)  
+   - [PBIX report](enhancement-tracker-powerbi/report/Enhancement_Tracker_Project.pbix)  
+   - [Excel data](enhancement-tracker-powerbi/data/E_Hours_Practice.xlsx)  
 3. Open the PBIX in **Power BI Desktop (Sept 2025 or later)**.  
 4. Refresh data if needed.  
 
